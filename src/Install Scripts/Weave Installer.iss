@@ -1,4 +1,4 @@
-﻿; -- Weave_Installer.iss --
+;-- Weave_Installer.iss --
 ; Using a locally bundled Weave distribution ZIP file, once a Tomcat webapps folder is specified, the Weave files are deployed.
 ; @jtfallon
 
